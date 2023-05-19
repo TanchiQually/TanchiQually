@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my first project ob GitHub
+- 🔭 I’m currently working on my first project on GitHub
 - 🌱 I’m currently learning on Python and Arduino
 
 <!--
